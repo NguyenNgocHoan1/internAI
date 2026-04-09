@@ -1,0 +1,1 @@
+print("Hello Mentor, em bat dau hoc git day!")
